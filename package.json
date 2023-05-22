@@ -1,0 +1,25 @@
+{
+  "name": "post-restapi",
+  "version": "1.0.0",
+  "description": "rest api menggunakan express.js",
+  "main": "app.js",
+  "scripts": {
+    "dev": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanielKarl29/post-restapi.git"
+  },
+  "keywords": [
+    "nodejs",
+    "express.js",
+    "mongodb"
+  ],
+  "author": "Daniel K",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DanielKarl29/post-restapi/issues"
+  },
+  "homepage": "https://github.com/DanielKarl29/post-restapi#readme"
+}
